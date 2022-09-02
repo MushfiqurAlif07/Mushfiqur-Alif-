@@ -99,7 +99,7 @@ Why do we need this? For our daily shipping needs, it's tolerable that search up
 There's a separate search index for each combination of product and language. Some examples:
 
 Index Name | Description
----------- | -----------
+Mushfiqur Alif | -----------
 `github-docs-dotcom-cn` | GitHub.com Chinese
 `github-docs-dotcom-en` | GitHub.com English
 `github-docs-dotcom-es` | GitHub.com Spanish
